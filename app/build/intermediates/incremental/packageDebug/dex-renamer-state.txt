@@ -1,0 +1,7 @@
+#Mon Nov 20 21:23:31 MST 2017
+base.0=C\:\\Users\\jurara\\AndroidStudioProjects\\ContadorDePasos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1e34b841f374524f016a230c06363fd48cbe8994
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Users\\jurara\\AndroidStudioProjects\\ContadorDePasos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dce0a8e2809fa4c34ce8452049e72806aac7c23\\classes.dex
+base.1=C\:\\Users\\jurara\\AndroidStudioProjects\\ContadorDePasos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9dce0a8e2809fa4c34ce8452049e72806aac7c23
+file.0=C\:\\Users\\jurara\\AndroidStudioProjects\\ContadorDePasos\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_1e34b841f374524f016a230c06363fd48cbe8994\\classes.dex
